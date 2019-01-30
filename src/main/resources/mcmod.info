@@ -1,0 +1,16 @@
+[
+{
+  "modid": "industrialprograms",
+  "name": "Industrial Programs",
+  "description": "A Minecraft mod adds more compatibility OC and Other Mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Anar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
